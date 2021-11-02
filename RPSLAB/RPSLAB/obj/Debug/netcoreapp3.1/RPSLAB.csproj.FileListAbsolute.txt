@@ -1,0 +1,14 @@
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.csproj.AssemblyReference.cache
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.AssemblyInfoInputs.cache
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.AssemblyInfo.cs
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.csproj.CoreCompileInputs.cache
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\bin\Debug\netcoreapp3.1\RPSLAB.exe
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\bin\Debug\netcoreapp3.1\RPSLAB.deps.json
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\bin\Debug\netcoreapp3.1\RPSLAB.runtimeconfig.json
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\bin\Debug\netcoreapp3.1\RPSLAB.runtimeconfig.dev.json
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\bin\Debug\netcoreapp3.1\RPSLAB.dll
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\bin\Debug\netcoreapp3.1\RPSLAB.pdb
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.dll
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.pdb
+C:\Users\areddy1\source\repos\RPSLAB\RPSLAB\obj\Debug\netcoreapp3.1\RPSLAB.genruntimeconfig.cache
